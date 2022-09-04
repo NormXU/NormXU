@@ -5,7 +5,7 @@
 - **Very-rich Document Understanding** 
 
 - **OCR** (including Scene Text Recognition & Text Recognition)
-- **Text Retrieval from Structured Documentation**
+- **Object Detection**
 
 And I used to work on Robotics Perception during my Master Study.
 
