@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**NormXU/NormXU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on the following topics with deep learning. I am passionate on adapting SOTA algorithms in these fields into industrial use.
 
-Here are some ideas to get you started:
+- **Very-rich Document Understanding** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **OCR** (including Scene Text Recognition & Text Recognition)
+- **Text Retrieval from Structured Documentation**
+
+And I used to work on Robotics Perception during my Master Study.
+
+
+
+📄 **My Publications && Patents**
+
+Xu, Nuo. "Active Object Searching on Mobile Robot Using Reinforcement Learning." *2021 2nd International Conference on Computing and Data Science (CDS)*. IEEE, 2021.
+
+TAO TI; XU NUO; GAO XIANG; JI DAQI; CHEN YUNWEN. "Document layout classification method based on multi-modal fusion", *202110854557.1*
+
+
+
+😄 Pronouns: XU is hard to pronounce in English, so just call me Norm
+
