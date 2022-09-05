@@ -15,9 +15,9 @@ And I used to work on Robotics Perception during my Master Study.
 
 Xu, Nuo. "Active Object Searching on Mobile Robot Using Reinforcement Learning." *2021 2nd International Conference on Computing and Data Science (CDS)*. IEEE, 2021.
 
-TAO TI; XU NUO; GAO XIANG; JI DAQI; CHEN YUNWEN. "Document layout classification method based on multi-modal fusion", *202110854557.1*
+TAO TI; **XU NUO**; GAO XIANG; JI DAQI; CHEN YUNWEN. "Document layout classification method based on multi-modal fusion", *202110854557.1*
 
 
 
-😄 Pronouns: XU is hard to pronounce in English, so just call me Norm
+😄 Pronouns: Nuo is hard to pronounce in English, so just call me Norm
 
