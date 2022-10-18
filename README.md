@@ -6,6 +6,7 @@
 
 - **OCR** (including Scene Text Recognition & Text Recognition)
 - **Object Detection**
+- **Image Generation with Diffusion**
 
 And I used to work on Robotics Perception during my Master Study.
 
