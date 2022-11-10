@@ -3,10 +3,10 @@
 🔭 I’m currently working on the following topics with deep learning. I am passionate on adapting SOTA algorithms in these fields into industrial use.
 
 - **Very-rich Document Understanding** 
-
 - **OCR** (including Scene Text Recognition & Text Recognition)
 - **Object Detection**
-- **Image Generation with Diffusion**
+- **AI Generation Content**
+- **Graph Neural Networl for Layout Analysis**
 
 And I used to work on Robotics Perception during my Master Study.
 
