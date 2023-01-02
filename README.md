@@ -18,7 +18,3 @@ Xu, Nuo. "Active Object Searching on Mobile Robot Using Reinforcement Learning."
 
 TAO TI; **XU NUO**; GAO XIANG; JI DAQI; CHEN YUNWEN. "Document layout classification method based on multi-modal fusion", *202110854557.1*
 
-
-
-😄 Pronouns: Nuo is hard to pronounce in English, so just call me Norm
-
