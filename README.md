@@ -5,9 +5,9 @@ Hi, there 👋🏻,
 
 My specific areas of interest include:
 
-- **Very-rich Document Understanding & Layout Analysis**
-- **Optical Character Recognition**
-- **Object Detection**
+- ~~**Very-rich Document Understanding & Layout Analysis**~~
+- ~~**Optical Character Recognition**~~
+- ~~**Object Detection**~~
 - **Language Models**
 - **Stable Diffusion**
 
