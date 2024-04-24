@@ -11,4 +11,4 @@ My specific areas of interest include:
 - **Auto-regressive Generation**
 - **Diffusion**
 
-In addition to my current pursuits, I have prior experience working on Robotics Perception during my Master's studies. My passion for cutting-edge technology and its practical applications drives my dedication to excel in these fields. Hope my work can be helpful to you.
+In addition to my current pursuits, I have prior experience working on Robotics Perception during my Master's studies. Hope my work can be helpful to you.
