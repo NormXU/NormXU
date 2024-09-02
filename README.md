@@ -18,7 +18,7 @@ PS: I recognize that all diffusion and next-token generation tasks are inherentl
 - ~~Optical Character Recognition~~
 - ~~Object Detection~~
 
-PS: I recognize all these tasks can be regarded as path planning tasks. (2023/12)
+PS: I recognize all these tasks as path-planning tasks. (2023/12)
 
 ---
 
