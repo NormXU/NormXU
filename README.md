@@ -4,7 +4,7 @@ Hi there 👋🏻,
 🔭 I am currently focused on developing cutting-edge multi-modality models capable of generating and understanding text and images natively.
 
 My specific areas of interest include:
-- Denoising
+- Path planning
 
 ---
 
@@ -18,7 +18,7 @@ PS: I recognize that all diffusion and next-token generation tasks are inherentl
 - ~~Optical Character Recognition~~
 - ~~Object Detection~~
 
-PS: Looks like all these tasks can be regarded as next-token generation tasks. (2023/12)
+PS: I recognize all these tasks can be regarded as path planning tasks. (2023/12)
 
 ---
 
