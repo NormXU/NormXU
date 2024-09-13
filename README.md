@@ -7,13 +7,6 @@ My specific areas of interest include:
 - Path planning
 
 ---
-
-- ~~Auto-regressive Generation~~
-- ~~Diffusion~~
-
-PS: I recognize that all diffusion and next-token generation tasks are inherently denoising tasks. (2024/05)
-
----
 - ~~Document Understanding & Layout Analysis~~
 - ~~Optical Character Recognition~~
 - ~~Object Detection~~
