@@ -6,7 +6,7 @@ Hi there 👋🏻,
 My specific areas of interest include:
 - Path planning
 
-PS: I recognize all these tasks as path-planning tasks. (2023/12)
+PS: I recognize all these tasks as path-planning tasks. Check [this](https://normxu.github.io/post10/) blog for more details.
 
 ---
 
