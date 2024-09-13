@@ -1,17 +1,24 @@
 
 Hi there 👋🏻,
 
-🔭 I am currently focused on developing cutting-edge multi-modality models capable of generating and understanding text and images natively.
+🔭 I am currently focused on developing cutting-edge multi-modality models capable of natively generating and understanding text and images.
 
 My specific areas of interest include:
 - Path planning
+
+PS: I recognize all these tasks as path-planning tasks. (2023/12)
+
+---
+
+- ~~Auto-regressive Generation~~
+- ~~Diffusion~~
+
+PS: I recognize all these tasks as diffusion and next-token generation tasks.
 
 ---
 - ~~Document Understanding & Layout Analysis~~
 - ~~Optical Character Recognition~~
 - ~~Object Detection~~
-
-PS: I recognize all these tasks as path-planning tasks. (2023/12)
 
 ---
 
